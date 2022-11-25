@@ -8,6 +8,7 @@ public class Ejercicio2 {
 
     System.out.println("Introduce un nombre");
     nombre = obj.nextLine();
+    obj.close();
     System.out.println("Buenos días " + nombre);
   }
 }

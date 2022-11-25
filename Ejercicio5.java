@@ -9,7 +9,7 @@ public class Ejercicio5 {
 
     System.out.println("Dame el radio de una circunferencia");
     r = obj.nextDouble();
-
+    obj.close();
     p = 2 * r * PI;
     a = PI * r * r;
 

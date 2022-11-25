@@ -7,6 +7,7 @@ public class Ejercicio4 {
 
     System.out.println("Introduce una temperatura en Centigrados");
     tempC = obj.nextDouble();
+    obj.close();
 
     tempF = 32 + ((9 / 5) * tempC);
 

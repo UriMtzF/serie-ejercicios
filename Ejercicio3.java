@@ -7,7 +7,7 @@ public class Ejercicio3 {
 
     System.out.println("Introduce un numero");
     num = obj.nextDouble();
-
+    obj.close();
     System.out.println("El doble del numero introducido es: " + num * 2);
     System.out.println("El triple del numero introducido es: " + num * 3);
   }

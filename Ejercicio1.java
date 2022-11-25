@@ -9,7 +9,7 @@ public class Ejercicio1 {
     num1 = obj.nextInt();
     System.out.println("Dame otro numero");
     num2 = obj.nextInt();
-
+    obj.close();
     System.out.println("El primer número fue: " + num1 + ", el segundo número fue: " + num2);
 
   }
