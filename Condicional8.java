@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CondicionalEjercicio1 {
+public class Condicional8 {
   public static void main(String[] args) {
     int n;
 
@@ -9,10 +9,10 @@ public class CondicionalEjercicio1 {
     n = obj.nextInt();
     obj.close();
 
-    if (n % 2 == 0) {
-      System.out.println("El numero es par");
+    if (n % 3 == 0 || n % 2 == 0) {
+      System.out.println("El numero es multiplo de 2 o 3");
     } else {
-      System.out.println("El numero es impar");
+      System.out.println("El numero no es multiplo de 2 o 3");
     }
   }
 }
