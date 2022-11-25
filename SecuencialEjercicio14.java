@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio14 {
+public class SecuencialEjercicio14 {
   public static void main(String[] args) {
     double pProducto, pFinal;
 

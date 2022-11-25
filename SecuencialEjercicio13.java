@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
-public class Ejercicio13 {
+public class SecuencialEjercicio13 {
   public static void main(String[] args) {
     int d, m, a, suma, cTemp, nSuerte;
     int cifras[] = new int[4];

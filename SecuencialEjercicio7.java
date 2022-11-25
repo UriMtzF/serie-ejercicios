@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio7 {
+public class SecuencialEjercicio7 {
   public static void main(String[] args) {
     Scanner obj = new Scanner(System.in);
     double catA, catO, hip;

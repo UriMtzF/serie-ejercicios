@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio9 {
+public class SecuencialEjercicio9 {
   public static void main(String[] args) {
     Scanner obj = new Scanner(System.in);
     double x, y, z, s, a;

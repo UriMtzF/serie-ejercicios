@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio5 {
+public class SecuencialEjercicio5 {
   public static final double PI = 3.14159;
 
   public static void main(String[] args) {

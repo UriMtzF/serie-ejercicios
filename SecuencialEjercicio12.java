@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio12 {
+public class SecuencialEjercicio12 {
   public static void main(String[] args) {
     Scanner obj = new Scanner(System.in);
     int n, cTemp;

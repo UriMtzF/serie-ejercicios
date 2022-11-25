@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio6 {
+public class SecuencialEjercicio6 {
   public static void main(String[] args) {
     Scanner obj = new Scanner(System.in);
     double vKm, vM;

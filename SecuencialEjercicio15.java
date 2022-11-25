@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio15 {
+public class SecuencialEjercicio15 {
   public static void main(String[] args) {
     int n, cifrasQuitar, temp;
 
